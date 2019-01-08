@@ -1,0 +1,83 @@
+section {
+	width: 560px;
+}
+
+div {
+	border: 2px dotted;
+	width: 267px;
+	margin: 4px;
+}
+
+p {
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	line-height: 28px;
+	padding: 20px;
+	text-align: center;
+}
+
+.bold {
+	font-family: 'Suez One', serif;
+}
+
+.dreamy {
+	font-family: 'Cedarville Cursive', cursive;
+	font-size: 30px;
+}
+
+.handwriting {
+	font-family: 'Indie Flower', cursive;
+	font-size: 24px;
+}
+
+#finale {
+	font-size: 32px;
+}
+
+.first {
+	background: #ffff66;
+	border-color: #cccc00;
+	float: left;
+}
+
+.second {
+	background: #b3b3ff;
+	border-color: #6666ff;
+	float: right;
+}
+
+.third {
+	background: #ffbb99;
+	border-color:  #ff5500;
+	float: left;
+}
+
+.fourth {
+	background: #99ffbb;
+	border-color: #00cc44;
+	float: right;
+}
+
+.fifth {
+	background: #ecc6ec;
+	border-color: #bf40bf;
+	float: left;
+}
+
+.sixth {
+	background: #ffdf80;
+	border-color: #e6ac00;
+	float: right;
+}
+
+.seventh {
+	background: #b3e6ff;
+	border-color: #0099e6;
+	float: right;
+}
+
+.eigth {
+	background: #ccffcc;
+	border-color: #00e600;
+	float: left;
+}
